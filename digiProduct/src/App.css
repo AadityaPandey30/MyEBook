@@ -1,1 +1,12 @@
+body{
+    background-color: #4A5D52;
+}
 
+.bg{
+    background-image: url("./assets/bgm.webp");
+    background-position: center;
+}
+
+.book{
+    box-shadow: -4px 7px 25px 10px rgba(0, 27, 13, 0.5);
+}
